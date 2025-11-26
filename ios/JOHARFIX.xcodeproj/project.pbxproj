@@ -11,6 +11,14 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		D0B5CDA8501C4818BAAAB7BE /* DMSans-Italic-VariableFont_opsz,wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 29AC3AB9B7624DDEADEBF3E9 /* DMSans-Italic-VariableFont_opsz,wght.ttf */; };
+		75C608C41AA84734AD85404D /* DMSans-VariableFont_opsz,wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0602546766D24BA19F520E0F /* DMSans-VariableFont_opsz,wght.ttf */; };
+		36E6C187070D4C3D91D9E883 /* Inter-Italic-VariableFont_opsz,wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8AAE4A7D246D4935AEA7DEB0 /* Inter-Italic-VariableFont_opsz,wght.ttf */; };
+		7028C23ADECD4CAEB3EA5AE9 /* Inter-VariableFont_opsz,wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 510165902D8D4E39AD26F613 /* Inter-VariableFont_opsz,wght.ttf */; };
+		EA356705C6014B2CA37EE5E8 /* OpenSans-Italic-VariableFont_wdth,wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9E7BE7CAD333440BAF9A2640 /* OpenSans-Italic-VariableFont_wdth,wght.ttf */; };
+		F73F0229844E4E8A96B0E131 /* OpenSans-VariableFont_wdth,wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A0E2A46805F04F5B86B1CDC3 /* OpenSans-VariableFont_wdth,wght.ttf */; };
+		16BA24A433D7450292F01C69 /* BootSplash.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 19C8F2A9C0E14F7EBAA8F36F /* BootSplash.storyboard */; };
+		9D82D154F3884F659B793526 /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8E6A1720CED4DE88E2E9BFB /* Colors.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +32,14 @@
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = JOHARFIX/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = JOHARFIX/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		29AC3AB9B7624DDEADEBF3E9 /* DMSans-Italic-VariableFont_opsz,wght.ttf */ = {isa = PBXFileReference; name = "DMSans-Italic-VariableFont_opsz,wght.ttf"; path = "../assets/fonts/DMSans-Italic-VariableFont_opsz,wght.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0602546766D24BA19F520E0F /* DMSans-VariableFont_opsz,wght.ttf */ = {isa = PBXFileReference; name = "DMSans-VariableFont_opsz,wght.ttf"; path = "../assets/fonts/DMSans-VariableFont_opsz,wght.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8AAE4A7D246D4935AEA7DEB0 /* Inter-Italic-VariableFont_opsz,wght.ttf */ = {isa = PBXFileReference; name = "Inter-Italic-VariableFont_opsz,wght.ttf"; path = "../assets/fonts/Inter-Italic-VariableFont_opsz,wght.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		510165902D8D4E39AD26F613 /* Inter-VariableFont_opsz,wght.ttf */ = {isa = PBXFileReference; name = "Inter-VariableFont_opsz,wght.ttf"; path = "../assets/fonts/Inter-VariableFont_opsz,wght.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9E7BE7CAD333440BAF9A2640 /* OpenSans-Italic-VariableFont_wdth,wght.ttf */ = {isa = PBXFileReference; name = "OpenSans-Italic-VariableFont_wdth,wght.ttf"; path = "../assets/fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A0E2A46805F04F5B86B1CDC3 /* OpenSans-VariableFont_wdth,wght.ttf */ = {isa = PBXFileReference; name = "OpenSans-VariableFont_wdth,wght.ttf"; path = "../assets/fonts/OpenSans-VariableFont_wdth,wght.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		19C8F2A9C0E14F7EBAA8F36F /* BootSplash.storyboard */ = {isa = PBXFileReference; name = "BootSplash.storyboard"; path = "JOHARFIX/BootSplash.storyboard"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A8E6A1720CED4DE88E2E9BFB /* Colors.xcassets */ = {isa = PBXFileReference; name = "Colors.xcassets"; path = "JOHARFIX/Colors.xcassets"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = folder.assetcatalog; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +62,8 @@
 				13B07FB61A68108700A75B9A /* Info.plist */,
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */,
+				19C8F2A9C0E14F7EBAA8F36F /* BootSplash.storyboard */,
+				A8E6A1720CED4DE88E2E9BFB /* Colors.xcassets */,
 			);
 			name = JOHARFIX;
 			sourceTree = "<group>";
@@ -74,6 +92,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				D70601BEA15C438EB7DFEA39 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -96,6 +115,20 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		D70601BEA15C438EB7DFEA39 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				29AC3AB9B7624DDEADEBF3E9 /* DMSans-Italic-VariableFont_opsz,wght.ttf */,
+				0602546766D24BA19F520E0F /* DMSans-VariableFont_opsz,wght.ttf */,
+				8AAE4A7D246D4935AEA7DEB0 /* Inter-Italic-VariableFont_opsz,wght.ttf */,
+				510165902D8D4E39AD26F613 /* Inter-VariableFont_opsz,wght.ttf */,
+				9E7BE7CAD333440BAF9A2640 /* OpenSans-Italic-VariableFont_wdth,wght.ttf */,
+				A0E2A46805F04F5B86B1CDC3 /* OpenSans-VariableFont_wdth,wght.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -159,6 +192,14 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				D0B5CDA8501C4818BAAAB7BE /* DMSans-Italic-VariableFont_opsz,wght.ttf in Resources */,
+				75C608C41AA84734AD85404D /* DMSans-VariableFont_opsz,wght.ttf in Resources */,
+				36E6C187070D4C3D91D9E883 /* Inter-Italic-VariableFont_opsz,wght.ttf in Resources */,
+				7028C23ADECD4CAEB3EA5AE9 /* Inter-VariableFont_opsz,wght.ttf in Resources */,
+				EA356705C6014B2CA37EE5E8 /* OpenSans-Italic-VariableFont_wdth,wght.ttf in Resources */,
+				F73F0229844E4E8A96B0E131 /* OpenSans-VariableFont_wdth,wght.ttf in Resources */,
+				16BA24A433D7450292F01C69 /* BootSplash.storyboard in Resources */,
+				9D82D154F3884F659B793526 /* Colors.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
